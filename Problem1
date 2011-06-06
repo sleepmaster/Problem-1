@@ -1,0 +1,4 @@
+Looking up the length and width of the Golden Gate Bridge which is 2,788m and 27m respectively. And assuming that the penny could only be laid out on flat ground. 
+Then looking up the radius of the penny which is 9.5 * 10 ^-3 m. Then we know that the area of a penny is 0.00028338 m^2. 
+Therefore taking the area of the Golden Gate Bridge (ignoring the towers), we divide that area by that of the penny. 
+So 75276/0.00028338 = 265636248 pennies that you could fit on the Golden Gate Bridge with no overlap. 
